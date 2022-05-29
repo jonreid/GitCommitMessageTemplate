@@ -4,7 +4,7 @@
 # What is this? Why was this change made? -----------------72 chars---|
 
 
-# Arlo's Notation:
+# Arlo's Commit Notation:
 # F!! | Feature (> 8 LoC)
 # F - | Feature (<= 8 LoC)
 # B!! | Bug fix (> 8 LoC)
