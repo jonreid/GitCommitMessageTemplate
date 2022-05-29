@@ -8,7 +8,7 @@
 # R!! | Non-provable refactoring
 # R - | Test-supported Procedural Refactoring
 # r - | Provable Refactoring (automated, or from published recipe)
-# D - | Developer documentation changes (not end-user facing)
+# d - | Developer-visible documentation
 # a - | Automatic formatting/generation
 # e - | Environment (non-code) changes that affect development setup
 # t - | Test-only
