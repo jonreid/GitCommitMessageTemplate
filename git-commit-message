@@ -5,10 +5,10 @@
 
 
 # Arlo's Notation:
-# F!! | Feature (> 8 lines)
-# F - | Feature (<= 8 lines)
-# B!! | Bug fix (> 8 lines)
-# B - | Bug fix (<= 8 lines)
+# F!! | Feature (> 8 LoC)
+# F - | Feature (<= 8 LoC)
+# B!! | Bug fix (> 8 LoC)
+# B - | Bug fix (<= 8 LoC)
 # R!! | Non-provable refactoring
 # R - | Test-supported Procedural Refactoring
 # r - | Provable Refactoring (automated, or from published recipe)
