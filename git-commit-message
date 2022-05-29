@@ -11,7 +11,7 @@
 # B - | Bug fix (<= 8 lines)
 # R!! | Non-provable refactoring
 # R - | Test-supported Procedural Refactoring
-# r - | Provable Refactoring
+# r - | Provable Refactoring (automated, or from published recipe)
 # a - | Automatic formatting/generation
 # c - | Comments (add/delete)
 # d - | Developer documentation changes (not end-user facing)
