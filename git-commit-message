@@ -5,18 +5,16 @@
 
 
 # Arlo's Notation:
-# F   | Feature (<= 8 lines)
-# B   | Bug fix (<= 8 lines)
-# R   | Test-supported Procedural Refactoring
-# t   | Test only
-# d   | Developer documentation changes (not end-user facing)
-# a   | Automated formatting/generation
-# r   | Provable Refactoring
-# c   | Comments (add/delete)
-# e   | Environment (non-code) changes that affect development setup,
-#     | and other tooling changes that don't affect program behavior
-#     | (such as linting)
 # F!! | Feature (> 8 lines)
+# F - | Feature (<= 8 lines)
 # B!! | Bug fix (> 8 lines)
+# B - | Bug fix (<= 8 lines)
 # R!! | Non-provable refactoring
+# R - | Test-supported Procedural Refactoring
+# r - | Provable Refactoring
+# a - | Automatic formatting/generation
+# c - | Comments (add/delete)
+# d - | Developer documentation changes (not end-user facing)
+# e - | Environment (non-code) changes that affect development setup
+# t - | Test-only
 # _** | Known to be broken, or can't check now. May not compile.
