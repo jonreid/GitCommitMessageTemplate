@@ -6,8 +6,8 @@
 # B!! | Bug fix (> 8 LoC)
 # B - | Bug fix (<= 8 LoC)
 # R!! | Non-provable refactoring
-# R - | Test-supported Procedural Refactoring
-# r - | Provable Refactoring (automated, or from published recipe)
+# R - | Test-supported procedural refactoring
+# r - | Automated refactoring
 # d - | Developer-visible documentation
 # a - | Automatic formatting/generation
 # e - | Environment (non-code) changes that affect development setup
