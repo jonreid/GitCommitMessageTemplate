@@ -1,6 +1,6 @@
 # Git Commit Message Template
 
-This is the template I use for my Git commits. It uses
+This is the template I use for my Git commits. It uses a [V2 version](https://github.com/RefactoringCombos/ArlosCommitNotation/pull/43) of
 [Arlo's Commit Notation](https://github.com/RefactoringCombos/ArlosCommitNotation)
 
 To use a commit template globally:
