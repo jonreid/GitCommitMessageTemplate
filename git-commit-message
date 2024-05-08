@@ -1,15 +1,14 @@
 
 
 #-----| Arlo's Commit Notation cheat sheet:
-# F!! | Feature (> 8 LoC)
-# F - | Feature (<= 8 LoC)
-# B!! | Bug fix (> 8 LoC)
-# B - | Bug fix (<= 8 LoC)
-# R!! | Non-provable refactoring
-# R - | Test-supported procedural refactoring
-# r - | Automated refactoring
-# d - | Developer-visible documentation
-# a - | Automatic formatting/generation
-# e - | Environment (non-code) changes that affect development setup
-# t - | Test-only
-# _** | Known to be broken, or can't check now. So F**, R**, etc.
+# * f | Feature (> 8 LoC)
+# - f | Feature (<= 8 LoC)
+# * b | Bug fix (> 8 LoC)
+# - b | Bug fix (<= 8 LoC)
+# * r | Non-provable refactoring
+# - r | Test-supported procedural refactoring
+# . r | Automated refactoring
+# . d | Developer-visible documentation
+# . a | Automatic formatting/generation
+# . e | Environment (non-code) changes that affect development setup
+# . t | Test-only
