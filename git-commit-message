@@ -5,9 +5,9 @@
 # ^ f | Feature (<= 8 LoC)
 # ! b | Bug fix (> 8 LoC)
 # ^ b | Bug fix (<= 8 LoC)
-# ! r | Non-provable refactoring
+# ! r | Manual refactoring or without whole-project test coverage
 # ^ r | Test-supported procedural refactoring
-# . r | Automated or provable refactoring
+# . r | Automated or provable refactoring, or in test code
 # . d | Developer-visible documentation
 # . a | Automatic formatting/generation
 # . e | Environment (non-code) changes that affect development setup
