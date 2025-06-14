@@ -7,9 +7,10 @@ To use a commit template globally:
 
     git config --global commit.template [filename]
 
-## Author
+## About the Author
 
-Jon Reid is the author of _[iOS Unit Testing by Example](https://iosunittestingbyexample.com)._ His website is [Quality Coding](https://qualitycoding.org).
+Jon Reid is the author of _[iOS Unit Testing by Example](https://iosunittestingbyexample.com)._  
+Find more at [Quality Coding](https://qualitycoding.org).
 
 [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff)](https://bsky.app/profile/qualitycoding.org)
 [![Mastodon](https://img.shields.io/mastodon/follow/109765011064804734?domain=https%3A%2F%2Fiosdev.space
